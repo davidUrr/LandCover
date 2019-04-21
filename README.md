@@ -8,9 +8,12 @@ Las imágenes tiene una Las clases contienen entre 2000 y 3000 imágenes, con un
 - Cultivos anuales
 - Bu
 
+![Clases]()
 
 
-La distribución de los países se observa en la siguiente imágen
+La distribución de los países se observa en la siguiente figura
+
+![Distribución paises](
 
 
 
