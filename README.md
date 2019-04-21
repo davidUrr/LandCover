@@ -9,9 +9,10 @@ Las imágenes tiene una Las clases contienen entre 2000 y 3000 imágenes, con un
 - [3] Highway
 - [4] Industrial Buildings
 - [5] Pasture
-- [6] Residencial Buildings
-- [7] River
-- [8] Sea & Lake
+- [6] Permanent Crop
+- [7] Residencial Buildings
+- [8] River
+- [9] Sea & Lake
 
 
 <p align="center">
@@ -26,16 +27,7 @@ La distribución de los países se observa en la siguiente figura
 
 Tomado de [[1]](https://arxiv.org/abs/1709.00029)
 
-Para esto se han planteado un archivo que contiene la fase de experimentación y otro con los resultados finales
+Para esto se han planteado un archivo que contiene la [fase de experimentación] y otro con los resultados finales donde se ha creado un modelo llamando CoverLandModel
 
 [Experimentación]
 [Proyecto final]
-
-
-## Clases
-El sistema cuenta con 
-
-La base de datos es publica en el siguiente [enlace](https://github.com/phelber/eurosat)
-
-
-Create README.md
