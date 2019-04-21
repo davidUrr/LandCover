@@ -8,14 +8,15 @@ Las imágenes tiene una Las clases contienen entre 2000 y 3000 imágenes, con un
 - Cultivos anuales
 - Bu
 
-![Clases](https://github.com/davidUrr/LandCover/blob/master/Imagenes/Clases.png)
-
+<p align="center">
+  <img src="https://github.com/davidUrr/LandCover/blob/master/Imagenes/Clases.png">
+</p>
 
 La distribución de los países se observa en la siguiente figura
 
-![Distribución paises](https://github.com/davidUrr/LandCover/blob/master/Imagenes/distribucion.png)
-
-https://github.com/davidUrr/LandCover/blob/master/Imagenes/distribucion.png
+<p align="center">
+  <img src="https://github.com/davidUrr/LandCover/blob/master/Imagenes/distribucion.png">
+</p>
 
 Tomado de [[1]](https://arxiv.org/abs/1709.00029)
 
