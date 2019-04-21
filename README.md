@@ -13,9 +13,9 @@ Las imágenes tiene una Las clases contienen entre 2000 y 3000 imágenes, con un
 
 La distribución de los países se observa en la siguiente figura
 
-![Distribución paises](https://github.com/davidUrr/LandCover/blob/master/Imagenes/distribucion.png
+![Distribución paises](https://github.com/davidUrr/LandCover/blob/master/Imagenes/distribucion.png)
 
-
+https://github.com/davidUrr/LandCover/blob/master/Imagenes/distribucion.png
 
 Tomado de [[1]](https://arxiv.org/abs/1709.00029)
 
