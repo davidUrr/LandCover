@@ -16,7 +16,7 @@ Las imágenes tiene una Las clases contienen entre 2000 y 3000 imágenes, con un
 
 
 <p align="center">
-  <img src="https://github.com/davidUrr/LandCover/blob/master/Imagenes/Clases.png">
+  <img src="https://github.com/davidUrr/LandCover/blob/master/Imagenes/Clases2.png">
 </p>
 
 La distribución de los países se observa en la siguiente figura
