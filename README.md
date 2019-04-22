@@ -29,8 +29,8 @@ Tomado de [[1]](https://arxiv.org/abs/1709.00029)
 
 Para esto se han planteado un archivo que contiene la [fase de experimentación]() y otro con los [resultados finales]() donde se ha creado un modelo llamando CoverLandModel, el cual alcanza un porcentaje de predicción cercano al 35%, en la identificación de las 10 clases en las imágenes satelitales.
 
-El flujo experimental planteado es:
-1. Cargar la base de datos desde respositorio.
+El flujo experimental planteado fue el siguiente:
+1.  Cargar la base de datos desde respositorio.
 2. Separación entre train (70%) y test (30%).
 3. Las imágenes se separan en carpetas por clase.
 4. Las imagenes pasan por un generador de imágenes
