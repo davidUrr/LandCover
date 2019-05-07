@@ -27,7 +27,7 @@ La distribución de los países se observa en la siguiente figura
 
 Tomado de [[1]](https://arxiv.org/abs/1709.00029)
 
-Para esto se han planteado un archivo que contiene la [fase de experimentación](https://github.com/davidUrr/LandCover/blob/master/LandCover_Experiment.ipynb) y otro con los [resultados finales](https://github.com/davidUrr/LandCover/blob/master/LandCover.ipynb) donde se ha creado un modelo llamando CoverLandModel, el cual alcanza un porcentaje de predicción cercano al 35%, en la identificación de las 10 clases en las imágenes satelitales.
+Para esto se han planteado un archivo que contiene la [fase de experimentación](https://github.com/davidUrr/LandCover/blob/master/LandCover_Experiment.ipynb) y otro con los [resultados finales](https://github.com/davidUrr/LandCover/blob/master/LandCover.ipynb) donde se ha creado un modelo llamando CoverLandModel, el cual alcanza un porcentaje de predicción cercano al 35%, en la identificación de las 10 clases en las imágenes satelitales. Con la red VGG16 se alcanza el 89%.
 
 El flujo experimental planteado fue el siguiente:
 1.  Cargar la base de datos desde respositorio.
